@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 import MovieRow from './MovieRow.js'
-import $ from 'jquery'
+  import $ from 'jquery'
 
 class App extends Component {
 
